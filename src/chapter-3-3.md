@@ -1,5 +1,3 @@
-Importance of Continuous Learning and Growth Mindset
-=============================================================================================
 
 In today's fast-paced world, it's important to develop an AI-led mindset that embraces innovation and change. In this chapter, we'll explore the importance of continuous learning and a growth mindset in developing an AI-led mindset.
 

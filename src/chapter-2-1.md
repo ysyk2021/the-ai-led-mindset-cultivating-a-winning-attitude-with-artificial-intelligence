@@ -1,5 +1,3 @@
-Explanation of AI Technology and Its Impact on Society
-=============================================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving technology that has the potential to transform society in profound ways. In this chapter, we'll provide an overview of AI technology and explore its impact on society.
 

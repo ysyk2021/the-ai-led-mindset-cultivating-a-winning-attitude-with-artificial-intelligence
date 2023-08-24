@@ -1,5 +1,3 @@
-Role of AI in Leadership and Decision-making
-==========================================================================
 
 AI technologies are increasingly being used in leadership and decision-making, offering new opportunities for innovation and growth. In this chapter, we will explore the role of AI in leadership and decision-making.
 

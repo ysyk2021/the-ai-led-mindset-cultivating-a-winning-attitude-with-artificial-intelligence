@@ -1,5 +1,3 @@
-Chapter 5: Collaborating with AI
-================================
 
 Collaborating with AI-based systems is becoming more common in the workplace. In this chapter, we'll explore the benefits of collaborating with AI, best practices for working alongside AI technologies, and ethical considerations in AI collaboration.
 

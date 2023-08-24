@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI and Its Impact on Society
-=====================================================
 
 Understanding AI technology and its impact on society is critical for developing an AI-Led Mindset. In this chapter, we will explore the basics of AI technology, its impact on society, and examples of successful AI adoption in various industries.
 

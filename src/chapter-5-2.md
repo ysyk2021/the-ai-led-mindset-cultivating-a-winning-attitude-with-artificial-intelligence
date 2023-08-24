@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Leadership
-============================================================================
 
 As AI-based systems become more prevalent in the workplace, leaders must understand both the advantages and limitations of AI as a tool for leadership. In this chapter, we'll explore some of the key advantages and limitations of AI in leadership.
 

@@ -1,5 +1,3 @@
-Chapter 4: AI and Leadership
-============================
 
 As AI-based systems become more prevalent in the workplace, leaders must learn to effectively leverage these technologies to drive success. In this chapter, we'll explore the role of AI in leadership and decision-making, the advantages and limitations of AI in leadership, and the importance of balancing human intuition and AI-driven insights.
 

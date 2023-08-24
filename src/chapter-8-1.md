@@ -1,5 +1,3 @@
-Summary of Key Findings and Takeaways
-=================================================
 
 In this book, we've explored the concept of developing an AI-led mindset and how it can be applied in the workplace. We've discussed the characteristics of an AI-led mindset, techniques for developing an AI-led mindset, collaborating with AI, and building an AI-driven culture.
 

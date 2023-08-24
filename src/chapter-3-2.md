@@ -1,5 +1,3 @@
-Techniques for Developing an AI-led Mindset, such as Embracing Change and Learning from Mistakes
-=========================================================================================================================================
 
 Developing an AI-led mindset requires individuals to embrace change and be willing to learn from mistakes. In this chapter, we'll explore some techniques for developing an AI-led mindset.
 

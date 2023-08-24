@@ -1,5 +1,3 @@
-Benefits and Challenges of AI
-====================================================================================
 
 Artificial intelligence (AI) has the potential to transform society in many ways, but it also presents a number of challenges and risks. In this chapter, we'll explore the benefits and challenges of AI.
 

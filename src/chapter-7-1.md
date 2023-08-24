@@ -1,5 +1,3 @@
-Building a Culture that Embraces AI and Innovation
-============================================================================================
 
 To fully realize the benefits of AI-based systems, it's important to build a culture that embraces AI and innovation. In this chapter, we'll explore some best practices for building an AI-driven culture.
 

@@ -1,5 +1,3 @@
-Collaborating with AI in the Workplace
-========================================================================
 
 AI technologies are increasingly being integrated into the workplace, providing new opportunities for collaboration and innovation. In this chapter, we'll explore some best practices for collaborating with AI in the workplace.
 

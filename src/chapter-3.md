@@ -1,5 +1,3 @@
-Chapter 2: Developing an AI-Led Mindset
-=======================================
 
 Developing an AI-Led Mindset is critical for success in a rapidly evolving marketplace. In this chapter, we will explore the characteristics of an AI-led mindset and techniques for developing this mindset.
 

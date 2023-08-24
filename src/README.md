@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial intelligence (AI) is becoming increasingly prevalent in the workplace, and individuals must adapt and develop new skills to effectively leverage these technologies. Developing an AI-led mindset is essential for success in today's fast-paced world.
 
