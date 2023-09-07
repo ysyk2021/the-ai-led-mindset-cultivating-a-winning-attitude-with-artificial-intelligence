@@ -8,3 +8,7 @@ We'll also consider potential future developments in AI and its impact on mindse
 By cultivating an AI-led mindset, individuals can effectively leverage AI-based systems to achieve their goals and drive success in the workplace and beyond. With the right approach, individuals can develop a winning attitude towards innovation and change, and create a culture of growth and development in the workplace.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
