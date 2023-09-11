@@ -1,5 +1,4 @@
-Chapter 6: Use of AI for Professional Development, such as Career Advancement and Skill Acquisition
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting ways in which artificial intelligence can be leveraged for professional growth and development. AI technologies are becoming valuable allies in career advancement and skill acquisition, empowering individuals to thrive in a rapidly evolving professional landscape. Let's delve into the strategies and applications of AI in enhancing your professional journey.
 

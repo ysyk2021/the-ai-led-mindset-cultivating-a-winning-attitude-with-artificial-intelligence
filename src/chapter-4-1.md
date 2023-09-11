@@ -1,5 +1,4 @@
-Chapter 8: Use of AI for Personal Development, such as Health and Wellness
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative impact of AI on personal development, particularly in the realms of health and wellness. AI-driven technologies are revolutionizing how individuals can enhance their physical and mental well-being. Let's delve into the various ways AI can be harnessed for personal growth and self-improvement.
 

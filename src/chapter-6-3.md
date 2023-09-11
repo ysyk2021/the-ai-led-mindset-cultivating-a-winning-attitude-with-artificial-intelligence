@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in AI Collaboration
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical dimensions of collaborating with artificial intelligence. As AI plays an increasingly prominent role in our lives, it is crucial to understand and address the ethical challenges and responsibilities that come with this collaboration. Let's delve into the ethical considerations when working alongside AI technologies.
 

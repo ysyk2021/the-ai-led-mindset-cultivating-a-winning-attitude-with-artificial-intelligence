@@ -1,5 +1,4 @@
-Chapter 3: Role of AI in Leadership and Decision-Making
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role that AI (Artificial Intelligence) plays in leadership and decision-making processes. Understanding how AI can enhance leadership practices and inform decision-making is essential for cultivating a winning attitude in the AI-led era. Let's delve into the various aspects of AI's role in leadership and decision-making.
 

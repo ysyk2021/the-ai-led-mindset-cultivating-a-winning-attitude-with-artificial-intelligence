@@ -1,5 +1,4 @@
-Chapter 5: Importance of Balancing Human Intuition and AI-Driven Insights in Leadership
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical role of striking a balance between human intuition and AI-driven insights in effective leadership. As we navigate the AI-led era, understanding how to leverage the strengths of both human and artificial intelligence is paramount for cultivating a winning attitude. Let's delve into the significance of this balance in leadership.
 

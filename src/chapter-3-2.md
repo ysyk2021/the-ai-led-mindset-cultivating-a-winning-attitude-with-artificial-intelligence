@@ -1,5 +1,4 @@
-Chapter 6: Techniques for Developing an AI-Led Mindset
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore essential techniques for cultivating an AI-led mindset, focusing on embracing change and learning from mistakes. Developing the right mindset is pivotal for success in the AI-led era, and these techniques are fundamental in achieving that goal. Let's delve into the key strategies for fostering an AI-led mindset.
 

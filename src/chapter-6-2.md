@@ -1,5 +1,4 @@
-Chapter 6: Best Practices for Working Alongside AI Technologies
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for cultivating a winning attitude while working alongside AI technologies. To fully leverage the potential of AI, it's essential to understand how to integrate it seamlessly into your work and mindset. Let's delve into the strategies and principles for effectively collaborating with AI.
 

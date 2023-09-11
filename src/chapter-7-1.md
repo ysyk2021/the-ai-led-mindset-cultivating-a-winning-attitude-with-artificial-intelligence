@@ -1,5 +1,4 @@
-Chapter 6: Building a Culture that Embraces AI and Innovation
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the strategies and principles for fostering a culture within organizations that not only embraces AI (Artificial Intelligence) but also encourages innovation. Building such a culture is crucial for cultivating a winning attitude in the AI-led era. Let's delve into the key components of creating a culture that thrives on AI and innovation.
 

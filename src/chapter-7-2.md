@@ -1,5 +1,4 @@
-Chapter 7: Strategies for Promoting AI Adoption and Integrating it into Company Culture
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the strategies and best practices for promoting the adoption of AI (Artificial Intelligence) within organizations and successfully integrating it into the company culture. Building a culture that embraces AI is crucial for cultivating a winning attitude in the AI-led era. Let's explore the key strategies for achieving this integration.
 

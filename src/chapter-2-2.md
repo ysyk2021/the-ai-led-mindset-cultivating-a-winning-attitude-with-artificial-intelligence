@@ -1,5 +1,4 @@
-Chapter 3: Benefits and Challenges of AI
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the myriad of benefits that AI (Artificial Intelligence) offers, along with the challenges and considerations that come with its adoption. Understanding both the advantages and potential pitfalls is crucial for cultivating a winning attitude in the AI-led era. Let's delve into the benefits and challenges of AI technology.
 

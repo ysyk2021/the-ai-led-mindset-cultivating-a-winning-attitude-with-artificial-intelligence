@@ -1,5 +1,4 @@
-Chapter 5: Importance of Continuous Learning and Growth Mindset
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of continuous learning and the cultivation of a growth mindset in the context of embracing AI (Artificial Intelligence). Understanding the value of continuous personal and organizational development is essential for cultivating a winning attitude in the AI-led era. Let's delve into the various aspects of the importance of continuous learning and adopting a growth mindset.
 

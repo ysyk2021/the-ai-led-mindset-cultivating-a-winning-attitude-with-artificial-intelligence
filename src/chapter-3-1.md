@@ -1,5 +1,4 @@
-Chapter 4: Characteristics of an AI-Led Mindset
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the essential characteristics that define an AI-led mindset. Understanding these traits, including adaptability, creativity, and collaboration, is fundamental to cultivating a winning attitude in the AI-led era. Let's explore the key characteristics that shape an AI-led mindset.
 

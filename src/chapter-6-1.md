@@ -1,5 +1,4 @@
-Chapter 7: Collaborating with AI in the Workplace
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the dynamic relationship between individuals and artificial intelligence within the workplace. As AI technologies become integral to modern organizations, it is essential to understand how to collaborate effectively, harnessing AI's capabilities to drive productivity, innovation, and success. Let's delve into the strategies and principles for collaborating with AI in a professional setting.
 

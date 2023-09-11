@@ -1,5 +1,4 @@
-Chapter 2: Explanation of AI Technology and Its Impact on Society
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive overview of AI (Artificial Intelligence) technology, its fundamental concepts, and its profound impact on society. Understanding the core principles of AI and its implications is essential for cultivating a winning attitude in the AI-led era. Let's delve into the world of AI technology and explore its far-reaching effects on our lives.
 
